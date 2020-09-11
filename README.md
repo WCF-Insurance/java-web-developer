@@ -1,5 +1,5 @@
 # Java/Web Developer Project
-This is a project that we use for evaluating the technical skills of potential team members.
+This is a project that we use for evaluating the technical skills of potential team members. The expectation is that you will spend a maximum of 2-3 hours working on the project. We don't expect the code to be perfect. Our goal is to get a feel for the style of code you write as well as your thought process and problem solving skills.
 
 ## Feature Request App
 Build a web application that allows the user to manage "feature requests".
