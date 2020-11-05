@@ -31,7 +31,7 @@ The following are the tools our team favors.  They are preferred, but not requir
 
 Build your own public repo on github, and call it whatever you like. Build your solution in your
 repo, and include a README.md file that contains the detailed instructions for running your web app.
-Email the URL for your github repo to your hiring manager once you begin the project so we can review 
+**Please do not commit your target or node-modules directories to the repository.** Email the URL for your github repo to your hiring manager once you begin the project so we can review 
 your progress. Once your project is completed, please email your hiring manager.
 
 One of the major goals in this project is to see how you fill in ambiguities in your own creative
