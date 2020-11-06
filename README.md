@@ -22,7 +22,7 @@ other feature requests for that client should be adjusted.
 ## Tech Stack
 The following are the tools our team favors.  They are preferred, but not required, for this project.
 
-* Java 8
+* Java 8+
 * Spring Boot
 * JPA/Hibernate
 * Angular
