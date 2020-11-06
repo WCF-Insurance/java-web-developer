@@ -5,7 +5,7 @@ This is a project that we use for evaluating the technical skills of potential t
 Build a web application that allows the user to manage "feature requests".
 
 A "feature request" is a request for a new feature that will be added onto an existing piece of
-software. Assume that the user is an employee at WCF who would be entering this information after
+software. Assume that the user is an employee who would be entering this information after
 having some correspondence with a client that is requesting the feature.  The necessary fields
 are:
 
@@ -31,7 +31,8 @@ The following are the tools our team favors.  They are preferred, but not requir
 
 Build your own public repo on github, and call it whatever you like. Build your solution in your
 repo, and include a README.md file that contains the detailed instructions for running your web app.
-**Please do not commit your target or node-modules directories to the repository.** Email the URL for your github repo to your hiring manager once you begin the project so we can review 
+**Please do not commit your target or node-modules directories to the repository.** Email the URL for 
+your github repo to your hiring manager once you begin the project so we can review 
 your progress. Once your project is completed, please email your hiring manager.
 
 One of the major goals in this project is to see how you fill in ambiguities in your own creative
@@ -48,7 +49,7 @@ these features in their work.
 1. *Open Source*. We have a strong affinity for open source technology. If your go-to technology stack includes
 proprietary software, you won't be helping yourself to use it in this project.
 
-2. *Decoupled Backend*. We are looking for candidates with a strong understanding of the entire web application stack. The best projects will completely decouple the backend and the front end and communciate via API.
+2. *Decoupled Backend*. We are looking for candidates with a strong understanding of the entire web application stack. The best projects will have a completely decoupled backend and front end (though not necessarily separate repositories). They will communciate via API.
 
 3. *Test Suites with Continuous Integration*. Enterprise production requires rock solid stability. All code submitted into WCF repos must contain unit and regressions tests, so we favor candidates with experience writing quality tests.
 
